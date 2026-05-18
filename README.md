@@ -6,7 +6,6 @@ Aplicación de escritorio en Python para jugar tres en raya contra una IA que ut
 
 ![Interfaz del juego](assets/captura.png)
 
-Coloca la imagen `captura.png` en la carpeta `assets/` para que se muestre correctamente en este repositorio.
 
 ## Características
 
