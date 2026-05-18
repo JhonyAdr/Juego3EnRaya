@@ -1,0 +1,7 @@
+# Sin dependencias de terceros.
+# El proyecto utiliza únicamente la biblioteca estándar de Python
+# (tkinter, threading, time, math).
+#
+# Requisito: Python 3.8 o superior con tkinter habilitado.
+# En algunas distribuciones Linux puede ser necesario instalar el paquete del sistema, por ejemplo:
+#   sudo apt install python3-tk
